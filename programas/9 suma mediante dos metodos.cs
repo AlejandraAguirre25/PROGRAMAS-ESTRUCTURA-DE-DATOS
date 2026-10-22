@@ -1,4 +1,4 @@
-﻿
+//suma de numero mediante recursividad indirecta, calcular la suma de los numeros desde 1 hasta n utilizando dos metodos﻿
 using System;
 
 class Program
