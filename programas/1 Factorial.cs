@@ -1,4 +1,7 @@
-﻿using System;
+//CALCULAR EL FACTORIAL DE UN NUMERO ENTERO USANDO RECURSIVIDAD 
+
+
+using System;
 class Program
 {
     static long Factorial(int n)
