@@ -1,4 +1,4 @@
-﻿
+//determinar si el numero es par o impar, recursividad directa, determinando si un numero negativo es par o impar ﻿
 using System;
 
 class Program
