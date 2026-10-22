@@ -1,4 +1,4 @@
-﻿
+//Calcular una potencia entera no negativa utilizando recursividad﻿
 using System;
 class Program
 {
